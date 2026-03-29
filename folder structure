@@ -1,0 +1,17 @@
+base-airdrop-farming-hub/
+│
+├── README.md
+├── tasks/
+│   ├── beginner.md
+│   ├── explorer.md
+│   ├── advanced.md
+│   └── pro.md
+│
+├── guides/
+│   ├── bridge.md
+│   ├── dex.md
+│   ├── nft.md
+│   └── defi.md
+│
+└── resources/
+    └── links.md
