@@ -94,5 +94,5 @@ This is not financial advice. Airdrops are not guaranteed.
 ## 🤝 Community
 
 Join our Guild & community for updates and farming guides.
-Telegral: https://t.me/airdropverseYT
+Telegram: https://t.me/airdropverseYT
 X/Twitter: https://x.com/edov0ss
